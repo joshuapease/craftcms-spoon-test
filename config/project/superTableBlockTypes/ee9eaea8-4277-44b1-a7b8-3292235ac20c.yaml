@@ -1,0 +1,33 @@
+field: fcc93022-d238-4f9b-be53-3f6d56789f1b # Supertable With Matrix
+fieldLayouts:
+  3308263e-6e11-412d-9b08-ece923401a60:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 4f2bdffe-3b64-4445-902e-055b968cf1ce # Blocks
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  4f2bdffe-3b64-4445-902e-055b968cf1ce: # Blocks
+    contentColumnType: string
+    fieldGroup: null
+    handle: blocks
+    instructions: ''
+    name: Blocks
+    searchable: false
+    settings:
+      contentTable: '{{%matrixcontent_blocks}}'
+      maxBlocks: ''
+      minBlocks: ''
+      propagationMethod: all
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Matrix

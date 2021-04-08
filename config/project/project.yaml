@@ -1,0 +1,27 @@
+dateModified: 1617840963
+email:
+  fromEmail: joshua.pease@viget.com
+  fromName: 'Spoon Test'
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  spoon:
+    edition: standard
+    enabled: true
+    licenseKey: UCPJFKBHBSBMU8AHAPZZWQ9T
+    schemaVersion: 3.5.0
+  super-table:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.2.1
+system:
+  edition: solo
+  live: true
+  name: 'Spoon Test'
+  schemaVersion: 3.6.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

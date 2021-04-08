@@ -1,0 +1,1 @@
+# Sample repo for testing the Spoon Craft CMS Plugin

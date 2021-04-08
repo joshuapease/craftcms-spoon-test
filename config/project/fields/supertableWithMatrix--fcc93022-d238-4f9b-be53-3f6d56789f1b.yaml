@@ -1,0 +1,27 @@
+contentColumnType: string
+fieldGroup: cd7b19bb-be37-40c2-9f4c-4277ad29784d # Common
+handle: supertableWithMatrix
+instructions: ''
+name: 'Supertable With Matrix'
+searchable: false
+settings:
+  columns:
+    __assoc__:
+      -
+        - 4f2bdffe-3b64-4445-902e-055b968cf1ce # Blocks
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+  contentTable: '{{%stc_supertablewithmatrix}}'
+  fieldLayout: matrix
+  maxRows: ''
+  minRows: ''
+  placeholderKey: null
+  propagationMethod: all
+  selectionLabel: ''
+  staticField: ''
+translationKeyFormat: null
+translationMethod: site
+type: verbb\supertable\fields\SuperTableField

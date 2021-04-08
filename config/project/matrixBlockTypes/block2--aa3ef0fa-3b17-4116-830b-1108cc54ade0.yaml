@@ -1,0 +1,40 @@
+field: 9e5cd5f2-d3ff-40b4-bc69-15ceabba7905 # Matrix
+fieldLayouts:
+  603da1e9-aa4f-4f90-a036-706e915dc7dd:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: a3fc3c9f-4d7e-49ab-baef-0a58118c9214 # Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  a3fc3c9f-4d7e-49ab-baef-0a58118c9214: # Heading
+    contentColumnType: text
+    fieldGroup: null
+    handle: heading
+    instructions: ''
+    name: Heading
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: block2
+name: 'Block 2'
+sortOrder: 2

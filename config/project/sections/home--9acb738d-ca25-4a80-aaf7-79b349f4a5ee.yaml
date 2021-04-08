@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  9064a091-1f88-41e3-aeaa-267c4c8478f3: # Spoon Test
+    enabledByDefault: true
+    hasUrls: true
+    template: home/_entry
+    uriFormat: __home__
+type: single

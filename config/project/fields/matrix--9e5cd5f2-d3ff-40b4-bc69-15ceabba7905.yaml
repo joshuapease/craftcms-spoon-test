@@ -1,0 +1,14 @@
+contentColumnType: string
+fieldGroup: cd7b19bb-be37-40c2-9f4c-4277ad29784d # Common
+handle: matrix
+instructions: ''
+name: Matrix
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_matrix}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
